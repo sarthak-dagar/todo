@@ -5,15 +5,12 @@ button{
     background-color: green;
     color: aliceblue;
     margin: 5px;
-    height: 40px;
-    width: 100px;
 
 
 }
 #taskinput{
     width: 300px;
     text-align:left ;
-    height: 30px;
 }
 
 img{
